@@ -8,18 +8,27 @@ Alfred workflow to search directories contents and copy the result to clipboard.
 
 ## Features
 
-- Your first feature as a list item
-- Your second feature as a list item
-- Your third feature as a list item
+- Search directories contents and copy the result to clipboard.
 
 ## Installation
 
+As per Alfred's [workflow installation process](https://www.alfredapp.com/help/workflows/#discovering).
 
 
 ## Usage
 
+TBD
 
 
 ## Maintenance
 
+```shell
+# Run linters.
+make lint
 
+# Run tests.
+make test
+
+# Build workflow.
+make build
+```

@@ -1,0 +1,9 @@
+{
+    "name": "alfred-search2clip-tests",
+    "version": "1.0.0",
+    "description": "Packages used for testing of alfred-search2clip",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+        "bats-helpers": "npm:@drevops/bats-helpers@^1.1.1"
+    }
+}

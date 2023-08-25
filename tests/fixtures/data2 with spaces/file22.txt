@@ -1,0 +1,13 @@
+qrstu
+
+samein2files string something multi
+
+nonunique string with colon : in it
+
+nonunique string with colon : in it and equal = in it
+
+nonunique string
+
+nonunique string
+
+# nonunique string commented
